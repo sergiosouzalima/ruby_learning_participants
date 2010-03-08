@@ -58,3 +58,7 @@ Change log:
 Cheers,
 ashbb (Satoshi Asakawa)
 http://rubylearning.org
+
+Cheers,
+Sergio Lima
+sergiosouzalima.com.br
